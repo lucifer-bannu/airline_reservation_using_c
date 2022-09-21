@@ -1,0 +1,2 @@
+# airline_reservation_using_c
+A small airline has just purchased a computer for its new automated reservation . The owner has asked  to program the new creed in C. It is required to write a program to assign seats on each flight of the  airline's only place. The program should never assign a seat which is already assigned. If there’s no seat  available, then print the message " the flight is full " , set the corresponding elements of the array to 1
